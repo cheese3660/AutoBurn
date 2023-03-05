@@ -1,0 +1,13 @@
+{
+    "mod_id": "AutoBurn",
+    "author": "cheese3660",
+    "name": "Auto Burn",
+    "description": "Simple mod to automate burning maneuver nodes",
+    "source": "https://github.com/cheese3660/AutoBurn",
+    "version": "1.0.0",
+    "dependencies": [],
+    "ksp2_version": {
+        "min": "*",
+        "max": "*"
+    }
+}
